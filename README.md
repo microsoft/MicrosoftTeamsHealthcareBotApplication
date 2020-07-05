@@ -11,7 +11,7 @@ urlFragment: "update-this-to-unique-url-stub"
 # Microsift Teams Healthcare Bot Application
 
 
-[Deployment guide](docs/deployment) 
+[Deployment guide](./docs/deploy/deployment.md) 
 
 Give a short description for your sample here. What does it do and why is it important?
 
