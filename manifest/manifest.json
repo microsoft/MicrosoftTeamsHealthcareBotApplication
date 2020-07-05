@@ -1,0 +1,47 @@
+{
+    "$schema": "https://developer.microsoft.com/en-us/json-schemas/teams/v1.7/MicrosoftTeams.schema.json",
+    "manifestVersion": "1.7",
+    "version": "1.0.0",
+    "id": "1a84fd19-7d71-468a-8555-2dd8d087a5fd",
+    "packageName": "com.contoso.samplehealthcarebotapplication",
+    "developer": {
+        "name": "<developer name>",
+        "websiteUrl": "<web site url>",
+        "privacyUrl": "<privacy url>",
+        "termsOfUseUrl": "<terms of use url>"
+    },
+    "icons": {
+        "color": "color.png",
+        "outline": "outline.png"
+    },
+    "name": {
+        "short": "Sample Healthcare Bot App",
+        "full": "Sample Healthcare Bot App"
+    },
+    "description": {
+        "short": "Sample Healthcare Bot App for Microsoft Teams",
+        "full": "This is a sample application for demonstrating Healthcare Bot - Microsoft Teams integration. You can extend this to add more content and capabilities."
+    },
+    "accentColor": "#60A18E",
+    "bots": [
+        {
+            "botId": "<bot id>",
+            "scopes": [
+                "personal",
+                "team",
+                "groupchat"
+            ],
+            "supportsFiles": false,
+            "isNotificationOnly": false
+        }
+    ],
+    "permissions": [
+        "identity",
+        "messageTeamMembers"
+    ],
+    "validDomains": [],
+    "webApplicationInfo": {
+        "id": "9552baad-9614-435b-8037-29e5b8d03413",
+        "resource": "https://login.microsoftonline.com/common/oauth2/token"
+    }
+}
