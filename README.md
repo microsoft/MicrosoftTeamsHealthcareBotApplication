@@ -1,8 +1,9 @@
 
 # Microsift Teams Healthcare Bot Application
 
+This application template will help you to quickly deploy Teams Bot.
 
-[Deployment guide](./docs/deploy/deployment.md) 
+[Purchase Heslthcare Bot on Azure Marketplace](./docs/marketplace/marketplace.md)
 
-Give a short description for your sample here. What does it do and why is it important?
+[Configure Healthcare Bot](./docs/portal/portal.md) 
 
