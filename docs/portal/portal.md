@@ -1,7 +1,7 @@
 
 
 ## 1. Configure Microsoft Teams channel
-After logging into the Healthcare Bot portal, navigate to Integeation/Channels and enable the Teams channel
+After logging into the Healthcare Bot portal, navigate to Integration/Channels and enable the Teams channel
 
 ![Portal](./portal1.png)
 
