@@ -31,4 +31,4 @@ Copy the "Bot Id" into the clipboard and click on the "Save" button. You will ne
 
 2. You can also upload it to your tenant's app catalog, so that it can be available for everyone in your tenant to install. See [here](https://docs.microsoft.com/en-us/MicrosoftTeams/manage-apps)
 
-3. Install the end-user app (the BookARoom-enduser.zip package) to your users.    
+3. Install the end-user app (the HealthcareTeamsBot.zip package) to your users.    

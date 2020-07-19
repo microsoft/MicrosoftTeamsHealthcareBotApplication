@@ -30,3 +30,5 @@ Locate the newly created resource and click it. Click the "Configure Account" bu
 At this point you can assign a name to the bot. You will have default name given by you  when you created the SaaS resource. This name will be used to generate a globally unique name that will identify this instance of the bot. Also, select the location of the provisioned resources. We currently support USA and EU locations. Click the "Create" button.
 
 ![Admin Portal](./adminportal1.png)
+
+Next step: [Configure Healthcare Bot for Microsoft Teams](../portal/portal.md)
