@@ -1,16 +1,16 @@
 
 # Microsoft Teams Healthcare Bot Application
 
-This application template will help you deploy quickly an instance of Healthcare Bot into your Teams organization channels and conversations.
+This application template will help you quickly deploy an instance of Healthcare Bot into your Teams organization channels and conversations.
 
-In this example, we import the "Back to work" template from the catalog 
+For example: We can import the "Back to work" scenario from our Scenario Template Catalog and have it running in a few minutes.
 ![](./docs/teams2.png)
 
 
-In minutes, we can publish and integrate this bot into your Microsoft Teams to be used by your organization employees.
-
 ![](./docs/teams1.png)
 
-[Purchase Healthcare Bot on Azure Marketplace](./docs/marketplace/marketplace.md)
+To provision a Healthcare Bot Teams application, follow these steps:
 
-[Configure Healthcare Bot for Microsoft Teams](./docs/portal/portal.md)
+### 1. [Purchase Healthcare Bot on Azure Marketplace](./docs/marketplace/marketplace.md)
+
+### 2. [Configure Healthcare Bot for Microsoft Teams](./docs/portal/portal.md)
